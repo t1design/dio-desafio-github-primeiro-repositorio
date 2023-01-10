@@ -1,0 +1,1 @@
+https://github.com/progit/progit2-pt-br/releases/download/2.1.46/progit.pdf

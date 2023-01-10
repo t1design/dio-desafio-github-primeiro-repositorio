@@ -1,0 +1,10 @@
+Principais comandos Git:
+$ git init: Inicializar um repositório git
+$ Ctrl+l: Limpa: a tela
+$ git status: Visualizar os arquivos que foram modificados 
+$ git diff [--name-only]: Visualizar as modifições realizadas
+$ git add : Adicionar todos os arquivos modificados para serem enviados no commit
+$ git commit -m "Descrição das modificações": Realizar commit com descrição do que foi modificado
+$ git push origin master: Enviar as modificações commitadas
+$ git push origin nome-do-branch: Enviar o branch para o repositório remoto
+$ git config --list: Visualizar todas as configurações
